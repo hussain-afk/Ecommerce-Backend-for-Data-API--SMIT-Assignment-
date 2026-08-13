@@ -3,400 +3,680 @@
     "id": 1,
     "title": "T-shirt with Tape Details",
     "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Crafted from premium heavy cotton, this casual tee features signature taped accents along the shoulders and sleeves for a subtle streetwear edge.",
     "rating": 4.5,
     "price": 120,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": true
+    "isTopSelling": true,
+    "colors": ["#4F46E5", "#312E81", "#1E1B4B"]
   },
   {
     "id": 2,
     "title": "Skinny Fit Jeans",
     "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542272604-780c36856842?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Tailored with hyper-stretch denim, these skinny jeans offer maximum mobility without losing shape. Features classic five-pocket construction.",
     "rating": 3.5,
     "price": 240,
     "originalPrice": 260,
     "discount": "-20%",
-    "isTopSelling": true
+    "isTopSelling": true,
+    "colors": ["#1E293B", "#0F172A", "#64748B"]
   },
   {
     "id": 3,
     "title": "Checkered Shirt",
     "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "A classic button-down plaid shirt engineered from soft breathable weave cotton. Ideal for smart-casual layering over plain tees.",
     "rating": 4.5,
     "price": 180,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": true
+    "isTopSelling": true,
+    "colors": ["#DC2626", "#1E3A8A", "#047857"]
   },
   {
     "id": 4,
     "title": "Sleeve Striped T-shirt",
     "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Sport-inspired crewneck t-shirt highlighting ribbed stripe accents on both sleeves. Lightweight combed cotton guarantees all-day comfort.",
     "rating": 4.5,
     "price": 130,
     "originalPrice": 160,
     "discount": "-30%",
-    "isTopSelling": true
+    "isTopSelling": true,
+    "colors": ["#000000", "#FFFFFF", "#94A3B8"]
   },
   {
     "id": 5,
     "title": "Vertical Striped Shirt",
     "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Elevate your weekend styling with this sharp vertical pinstripe shirt cut in a comfortable modern relaxed profile.",
     "rating": 5.0,
     "price": 212,
     "originalPrice": 232,
     "discount": "-20%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#2563EB", "#059669", "#D97706"]
   },
   {
     "id": 6,
     "title": "Courage Graphic T-shirt",
     "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Statement graphic tee designed with a bold vintage screen print across the chest. Made from pre-shrunk organic ring-spun cotton.",
     "rating": 4.0,
     "price": 145,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#18181B", "#3F3F46", "#71717A"]
   },
   {
     "id": 7,
     "title": "Loose Fit Bermuda Shorts",
     "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Relaxed-fitting knee-length casual shorts made from breathable cotton twill. Features deep utility side pockets and reinforced waistband.",
     "rating": 3.0,
     "price": 80,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#78350F", "#3B82F6", "#4B5563"]
   },
   {
     "id": 8,
     "title": "Faded Skinny Jeans",
     "image": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542272604-780c36856842?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Artisanal hand-faded stretch jeans featuring pre-distressed knees and mid-wash tone for an authentic worn-in aesthetic.",
     "rating": 4.5,
     "price": 210,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#334155", "#475569", "#94A3B8"]
   },
   {
     "id": 9,
     "title": "Classic Denim Jacket",
     "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Timeless heavy-duty denim trucker jacket with shank button closure, twin chest flap pockets, and adjustable waist tabs.",
     "rating": 4.8,
     "price": 320,
     "originalPrice": 400,
     "discount": "-20%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#1D4ED8", "#1E293B", "#6B7280"]
   },
   {
     "id": 10,
     "title": "Oversized Cotton Hoodie",
     "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Ultra-soft heavy fleece hoodie featuring dropped shoulders, double-layered hood, and a spacious kangaroo pocket.",
     "rating": 4.7,
     "price": 250,
     "originalPrice": 300,
     "discount": "-15%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#18181B", "#A1A1AA", "#E4E4E7"]
   },
   {
     "id": 11,
     "title": "Slim Fit Chino Pants",
     "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Tailored stretch chino trousers constructed with flexible waistband technology for office-to-evening comfort.",
     "rating": 4.2,
     "price": 190,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#D97706", "#111827", "#15803D"]
   },
   {
     "id": 12,
     "title": "Vintage Leather Jacket",
     "image": "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Hand-distressed faux leather jacket outfitted with asymmetric front zipper, lapels, and heavy metallic hardware.",
     "rating": 4.9,
     "price": 550,
     "originalPrice": 650,
     "discount": "-15%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#0F172A", "#78350F", "#451A03"]
   },
   {
     "id": 13,
     "title": "Minimalist Plain White Tee",
     "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Essential crewneck staple shirt cut from combed Supima cotton. Clean stitching lines and stay-flat ribbed neckline.",
     "rating": 4.6,
     "price": 90,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#FFFFFF", "#000000", "#94A3B8"]
   },
   {
     "id": 14,
     "title": "Casual Polo Shirt",
     "image": "https://images.unsplash.com/photo-1625910513413-5fc28108c909?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1625910513413-5fc28108c909?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1625910513413-5fc28108c909?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Breathable cotton piqué polo featuring a two-button placket and side vents. Offers smart comfort for warm weather.",
     "rating": 4.3,
     "price": 160,
     "originalPrice": 200,
     "discount": "-20%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#1E3A8A", "#065F46", "#B91C1C"]
   },
   {
     "id": 15,
     "title": "Cargo Jogger Pants",
     "image": "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Modern urban joggers with elasticated cuff hems, multiple cargo pockets, and adjustable drawstring waist band.",
     "rating": 4.4,
     "price": 220,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#3F6212", "#111827", "#374151"]
   },
   {
     "id": 16,
     "title": "Urban Black Sweatshirt",
     "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1614975058789-41316d0e2e9c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Sleek crewneck sweatshirt knitted from french terry cotton. Minimalist aesthetic designed for easy layering.",
     "rating": 4.5,
     "price": 230,
     "originalPrice": 280,
     "discount": "-18%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#000000", "#4B5563", "#9CA3AF"]
   },
   {
     "id": 17,
     "title": "Formal Oxford Shirt",
     "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Wrinkle-resistant Oxford cloth formal shirt with precise collar points and tailored slim cuffs.",
     "rating": 4.8,
     "price": 270,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#93C5FD", "#FFFFFF", "#3B82F6"]
   },
   {
     "id": 18,
     "title": "Distressed Denim Shorts",
     "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Edgy denim shorts styled with raw frayed hem lines and light knee abrasions for summer streetwear outfits.",
     "rating": 3.8,
     "price": 110,
     "originalPrice": 140,
     "discount": "-21%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#60A5FA", "#1D4ED8", "#9CA3AF"]
   },
   {
     "id": 19,
     "title": "Puffer Winter Jacket",
     "image": "https://images.unsplash.com/photo-1544441893-675973e31985?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Thermal-insulated winter puffer jacket equipped with windproof shell material and high fleece-lined chin guard.",
     "rating": 4.9,
     "price": 480,
     "originalPrice": 600,
     "discount": "-20%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#0F172A", "#15803D", "#B91C1C"]
   },
   {
     "id": 20,
     "title": "Graphic Anime Oversized Tee",
     "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Trendy oversized streetwear t-shirt featuring anime-inspired back artwork printed with durable soft-touch ink.",
     "rating": 4.6,
     "price": 155,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#111827", "#E11D48", "#8B5CF6"]
   },
   {
     "id": 21,
     "title": "Athletic Track Pants",
     "image": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Performance track pants crafted from quick-dry stretch fabric with side zip pockets and tapered ankle cuffs.",
     "rating": 4.2,
     "price": 175,
     "originalPrice": 210,
     "discount": "-16%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#1E293B", "#2563EB", "#000000"]
   },
   {
     "id": 22,
     "title": "Linen Summer Shirt",
     "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Ultra-lightweight 100% pure linen shirt providing maximum breathability for tropical climates and beach wear.",
     "rating": 4.7,
     "price": 225,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#FEF3C7", "#E0F2FE", "#FFFFFF"]
   },
   {
     "id": 23,
     "title": "Streetwear Zip-Up Hoodie",
     "image": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Full-zip heavy fleece hoodie built with custom metal hardware, deep side slit pockets, and ribbed trim details.",
     "rating": 4.5,
     "price": 290,
     "originalPrice": 350,
     "discount": "-17%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#1F2937", "#475569", "#D1D5DB"]
   },
   {
     "id": 24,
     "title": "Ripped Tapered Jeans",
     "image": "https://images.unsplash.com/photo-1542272604-780c36856842?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c36856842?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Tapered denim cut slim through the leg, accented with strategic distressing and custom metal button rivets.",
     "rating": 4.1,
     "price": 260,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#1E3A8A", "#64748B", "#0F172A"]
   },
   {
     "id": 25,
     "title": "Classic Wool Blazer",
     "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Refined single-breasted wool-blend blazer with notched lapels and inner satin lining. Perfectly structured profile.",
     "rating": 4.9,
     "price": 590,
     "originalPrice": 700,
     "discount": "-15%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#1E1B4B", "#18181B", "#374151"]
   },
   {
     "id": 26,
     "title": "Printed Hawaiian Shirt",
     "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Vibrant Cuban collar shirt showcasing resort floral graphics. Soft silky rayon feel designed for tropical vacations.",
     "rating": 4.3,
     "price": 135,
     "originalPrice": 170,
     "discount": "-20%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#0284C7", "#D97706", "#059669"]
   },
   {
     "id": 27,
     "title": "Fleece Pullover Sweater",
     "image": "https://images.unsplash.com/photo-1614975058789-41316d0e2e9c?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1614975058789-41316d0e2e9c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Cozy thermal fleece pullover built with quarter-snap placket and high mock collar to lock in body warmth.",
     "rating": 4.6,
     "price": 240,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#047857", "#4338CA", "#374151"]
   },
   {
     "id": 28,
     "title": "Tailored Trouser Pants",
     "image": "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Smart pleated formal dress trousers tailored with clean pressed creases and hidden hook-and-bar closure.",
     "rating": 4.7,
     "price": 310,
     "originalPrice": 380,
     "discount": "-18%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#111827", "#374151", "#78350F"]
   },
   {
     "id": 29,
     "title": "Sleeveless Gym Tank Top",
     "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Lightweight athletic tank top engineered with moisture-wicking technology and dropped armholes for gym workouts.",
     "rating": 4.0,
     "price": 75,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#000000", "#DC2626", "#2563EB"]
   },
   {
     "id": 30,
     "title": "Windbreaker Jacket",
     "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1544441893-675973e31985?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Weather-proof active windbreaker with cinch hood, elasticated cuffs, and breathable inner mesh lining.",
     "rating": 4.5,
     "price": 340,
     "originalPrice": 420,
     "discount": "-19%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#0284C7", "#1E293B", "#16A34A"]
   },
   {
     "id": 31,
     "title": "Knitted Crewneck Sweater",
     "image": "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1614975058789-41316d0e2e9c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Premium cotton-cashmere blend knitted sweater highlighting waffle texture detailing along cuffs and waistband.",
     "rating": 4.8,
     "price": 280,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#D97706", "#475569", "#FFFFFF"]
   },
   {
     "id": 32,
     "title": "Slim Fit Corduroy Shirt",
     "image": "https://images.unsplash.com/photo-1589310243389-96a5483213a8?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1589310243389-96a5483213a8?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Tactile fine-wale corduroy long sleeve shirt tailored with single chest patch pocket and rounded hemline.",
     "rating": 4.4,
     "price": 195,
     "originalPrice": 250,
     "discount": "-22%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#78350F", "#1E3A8A", "#374151"]
   },
   {
     "id": 33,
     "title": "Relaxed Fit Cargo Shorts",
     "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Durable cotton canvas cargo shorts with reinforced seat panels, wide belt loops, and snap-closure utility flaps.",
     "rating": 4.2,
     "price": 125,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#4B5563", "#3F6212", "#111827"]
   },
   {
     "id": 34,
     "title": "Turtleneck Thermal Top",
     "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1614975058789-41316d0e2e9c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Form-fitting ribbed turtleneck engineered from insulating thermal stretch cotton. Essential winter base layer.",
     "rating": 4.6,
     "price": 165,
     "originalPrice": 200,
     "discount": "-17%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#000000", "#FFFFFF", "#B91C1C"]
   },
   {
     "id": 35,
     "title": "Suede Biker Jacket",
     "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Luxurious genuine faux-suede biker outerwear with zippered cuffs, epaulettes, and heavy metal hardware accents.",
     "rating": 4.9,
     "price": 620,
     "originalPrice": 750,
     "discount": "-17%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#78350F", "#111827", "#D97706"]
   },
   {
     "id": 36,
     "title": "Colorblock Rugby Shirt",
     "image": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1625910513413-5fc28108c909?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Retro heavy-cotton rugby jersey featuring contrasting white twill collar, concealed rubber buttons, and colorblocking.",
     "rating": 4.3,
     "price": 185,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#1E3A8A", "#991B1B", "#065F46"]
   },
   {
     "id": 37,
     "title": "Regular Fit Khaki Pants",
     "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Versatile straight-leg khaki trousers constructed with durable stretch cotton twill and zip-fly button closure.",
     "rating": 4.5,
     "price": 205,
     "originalPrice": 250,
     "discount": "-18%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#D97706", "#374151", "#1E293B"]
   },
   {
     "id": 38,
     "title": "Padded Vest Gilet",
     "image": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1544441893-675973e31985?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Sleeveless quilted bodywarmer filled with thermal synthetic insulation. Features fleece-lined handwarmer pockets.",
     "rating": 4.4,
     "price": 230,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#111827", "#1E3A8A", "#4B5563"]
   },
   {
     "id": 39,
     "title": "Tie-Dye Casual T-shirt",
     "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Hand-dyed spiral tie-dye t-shirt cut in a relaxed fit. Soft washing process guarantees zero color bleed.",
     "rating": 4.1,
     "price": 115,
     "originalPrice": 150,
     "discount": "-23%",
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#8B5CF6", "#06B6D4", "#EC4899"]
   },
   {
     "id": 40,
     "title": "Heavyweight Fleece Sweatpants",
     "image": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Relaxed lounge sweatpants constructed from heavyweight brushed fleece with custom metal tipped drawstrings.",
     "rating": 4.7,
     "price": 210,
     "originalPrice": null,
     "discount": null,
-    "isTopSelling": false
+    "isTopSelling": false,
+    "colors": ["#6B7280", "#18181B", "#9CA3AF"]
   }
 ]
