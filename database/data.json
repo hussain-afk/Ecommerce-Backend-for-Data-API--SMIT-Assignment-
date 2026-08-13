@@ -6,7 +6,8 @@
     "rating": 4.5,
     "price": 120,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": true
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "rating": 3.5,
     "price": 240,
     "originalPrice": 260,
-    "discount": "-20%"
+    "discount": "-20%",
+    "isTopSelling": true
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "rating": 4.5,
     "price": 180,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": true
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "rating": 4.5,
     "price": 130,
     "originalPrice": 160,
-    "discount": "-30%"
+    "discount": "-30%",
+    "isTopSelling": true
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "rating": 5.0,
     "price": 212,
     "originalPrice": 232,
-    "discount": "-20%"
+    "discount": "-20%",
+    "isTopSelling": false
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "rating": 4.0,
     "price": 145,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "rating": 3.0,
     "price": 80,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "rating": 4.5,
     "price": 210,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "rating": 4.8,
     "price": 320,
     "originalPrice": 400,
-    "discount": "-20%"
+    "discount": "-20%",
+    "isTopSelling": false
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "rating": 4.7,
     "price": 250,
     "originalPrice": 300,
-    "discount": "-15%"
+    "discount": "-15%",
+    "isTopSelling": false
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "rating": 4.2,
     "price": 190,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "rating": 4.9,
     "price": 550,
     "originalPrice": 650,
-    "discount": "-15%"
+    "discount": "-15%",
+    "isTopSelling": false
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "rating": 4.6,
     "price": 90,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "rating": 4.3,
     "price": 160,
     "originalPrice": 200,
-    "discount": "-20%"
+    "discount": "-20%",
+    "isTopSelling": false
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "rating": 4.4,
     "price": 220,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "rating": 4.5,
     "price": 230,
     "originalPrice": 280,
-    "discount": "-18%"
+    "discount": "-18%",
+    "isTopSelling": false
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "rating": 4.8,
     "price": 270,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "rating": 3.8,
     "price": 110,
     "originalPrice": 140,
-    "discount": "-21%"
+    "discount": "-21%",
+    "isTopSelling": false
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "rating": 4.9,
     "price": 480,
     "originalPrice": 600,
-    "discount": "-20%"
+    "discount": "-20%",
+    "isTopSelling": false
   },
   {
     "id": 20,
@@ -177,7 +196,8 @@
     "rating": 4.6,
     "price": 155,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 21,
@@ -186,7 +206,8 @@
     "rating": 4.2,
     "price": 175,
     "originalPrice": 210,
-    "discount": "-16%"
+    "discount": "-16%",
+    "isTopSelling": false
   },
   {
     "id": 22,
@@ -195,7 +216,8 @@
     "rating": 4.7,
     "price": 225,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 23,
@@ -204,7 +226,8 @@
     "rating": 4.5,
     "price": 290,
     "originalPrice": 350,
-    "discount": "-17%"
+    "discount": "-17%",
+    "isTopSelling": false
   },
   {
     "id": 24,
@@ -213,7 +236,8 @@
     "rating": 4.1,
     "price": 260,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 25,
@@ -222,7 +246,8 @@
     "rating": 4.9,
     "price": 590,
     "originalPrice": 700,
-    "discount": "-15%"
+    "discount": "-15%",
+    "isTopSelling": false
   },
   {
     "id": 26,
@@ -231,7 +256,8 @@
     "rating": 4.3,
     "price": 135,
     "originalPrice": 170,
-    "discount": "-20%"
+    "discount": "-20%",
+    "isTopSelling": false
   },
   {
     "id": 27,
@@ -240,7 +266,8 @@
     "rating": 4.6,
     "price": 240,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 28,
@@ -249,7 +276,8 @@
     "rating": 4.7,
     "price": 310,
     "originalPrice": 380,
-    "discount": "-18%"
+    "discount": "-18%",
+    "isTopSelling": false
   },
   {
     "id": 29,
@@ -258,7 +286,8 @@
     "rating": 4.0,
     "price": 75,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 30,
@@ -267,7 +296,8 @@
     "rating": 4.5,
     "price": 340,
     "originalPrice": 420,
-    "discount": "-19%"
+    "discount": "-19%",
+    "isTopSelling": false
   },
   {
     "id": 31,
@@ -276,7 +306,8 @@
     "rating": 4.8,
     "price": 280,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 32,
@@ -285,7 +316,8 @@
     "rating": 4.4,
     "price": 195,
     "originalPrice": 250,
-    "discount": "-22%"
+    "discount": "-22%",
+    "isTopSelling": false
   },
   {
     "id": 33,
@@ -294,7 +326,8 @@
     "rating": 4.2,
     "price": 125,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 34,
@@ -303,7 +336,8 @@
     "rating": 4.6,
     "price": 165,
     "originalPrice": 200,
-    "discount": "-17%"
+    "discount": "-17%",
+    "isTopSelling": false
   },
   {
     "id": 35,
@@ -312,7 +346,8 @@
     "rating": 4.9,
     "price": 620,
     "originalPrice": 750,
-    "discount": "-17%"
+    "discount": "-17%",
+    "isTopSelling": false
   },
   {
     "id": 36,
@@ -321,7 +356,8 @@
     "rating": 4.3,
     "price": 185,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 37,
@@ -330,7 +366,8 @@
     "rating": 4.5,
     "price": 205,
     "originalPrice": 250,
-    "discount": "-18%"
+    "discount": "-18%",
+    "isTopSelling": false
   },
   {
     "id": 38,
@@ -339,7 +376,8 @@
     "rating": 4.4,
     "price": 230,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   },
   {
     "id": 39,
@@ -348,7 +386,8 @@
     "rating": 4.1,
     "price": 115,
     "originalPrice": 150,
-    "discount": "-23%"
+    "discount": "-23%",
+    "isTopSelling": false
   },
   {
     "id": 40,
@@ -357,6 +396,7 @@
     "rating": 4.7,
     "price": 210,
     "originalPrice": null,
-    "discount": null
+    "discount": null,
+    "isTopSelling": false
   }
 ]
